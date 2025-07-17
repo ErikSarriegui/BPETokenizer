@@ -4,7 +4,7 @@
 # **BPETokenizer**
 Una implementación didáctica en Python del algoritmo Byte-Pair Encoding (BPE) (Sennrich et al., 2016).
 
-Este mini proyecto es la implementación del algoritmo Byte-Pair Encoding (BPE) para tokenizar texto como lo hacen los LLMs. Para una inmersión completa y práctica en el tema, se incluye el notebook interactivo [`explicación_bpe.ipynb`](./explicación_bpe.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/BPETokenizer/blob/main//explicación_bpe.ipynb), que sirve como guía paso a paso para entender cada componente del algoritmo. Es el punto de partida ideal si tu objetivo es aprender.
+Este mini proyecto es la implementación del algoritmo Byte-Pair Encoding (BPE) para tokenizar texto como lo hacen los LLMs. Para una inmersión completa y práctica en el tema, se incluye el notebook interactivo [`explicación_bpe.ipynb`](./explicación_bpe.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/BPETokenizer/blob/main/explicación_bpe.ipynb), que sirve como guía paso a paso para entender cada componente del algoritmo. Es el punto de partida ideal si tu objetivo es aprender.
 
 ## **Índice**
 * Propósito y Advertencia
