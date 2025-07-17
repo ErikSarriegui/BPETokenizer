@@ -197,7 +197,7 @@ El propósito sirve como un ejercicio personal para desgranar e interiorizar cad
 ## **Bibliografía**
 *   **Sennrich, R., Haddow, B., & Birch, A. (2016). *Neural Machine Translation of Rare Words with Subword Units*.** Artículo seminal que propuso el uso de BPE en el contexto de la Traducción Automática Neuronal, sentando las bases para su uso en los LLMs modernos. [Enlace al paper](https://arxiv.org/abs/1508.07909).
 
-*   **Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). *Language Models are Unsupervised Multitask Learners*.** El paper de GPT-2, cuya implementación del tokenizador BPE, especialmente su patrón de pre-tokenización mediante regex, es una referencia directa para este proyecto. [Enlace al paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf.
+*   **Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). *Language Models are Unsupervised Multitask Learners*.** El paper de GPT-2, cuya implementación del tokenizador BPE, especialmente su patrón de pre-tokenización mediante regex, es una referencia directa para este proyecto. [Enlace al paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf).
 
 *   **Karpathy, A. (2023). *Let's build the GPT Tokenizer*.** Vídeo-tutorial y clase magistral que sirve como fuente primaria para la implementación práctica y la estructura del código de este repositorio. [Enlace al vídeo](https://www.youtube.com/watch?v=zduSFxRajkE).
 
