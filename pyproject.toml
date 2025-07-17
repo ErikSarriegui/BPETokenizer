@@ -17,7 +17,7 @@ keywords = ["tokenizer", "bpe"]
 
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Attribution 4.0 International",
     "Operating System :: OS Independent",
 ]
 
