@@ -34,6 +34,9 @@ pip install git+https://github.com/ErikSarriegui/BPETokenizer
 Una vez instalado en el sistema ya está listo para utilizarse.
 
 ## **¿Cómo usarlo?**
+Para una guía de inicio rápido y un ejemplo práctico, puedes ejecutar el notebook `quickstart.ipynb` directamente en Google Colab:
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikSarriegui/BPETokenizer/blob/main/quickstart.ipynb)
+
 ### 1. Preparar el Corpus
 Primero necesitas preparar el texto que usarás para entrenar el tokenizador:
 
