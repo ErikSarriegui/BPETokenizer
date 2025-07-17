@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+text/
 __pycache__/
 tok400.model
 tok400.vocab
